@@ -1,0 +1,19 @@
+/* Add your custom extension styling here */
+.number-indicator {
+    margin-top: 7px;
+}
+
+.menu-item-box {
+    padding: 5px 10px;
+}
+
+.menu-item-text {
+    width: 250px;
+    color: #e6e6e6;
+}
+
+.menu-item-value {
+    min-width: 25px;
+    font-weight: bold;
+    text-align: right;
+}
